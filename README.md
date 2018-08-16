@@ -1,5 +1,4 @@
-React Rally 2018
-Everything You Need to Know About GraphQL in Three Components
+Everything You Need to Know About GraphQL in Three Components - React Rally 2018
 ===========
 The arrival of GraphQL marks a tectonic shift in the way that APIs are designed and will be designed for many years to come. It's useful to talk about all of GraphQL's serious implications for how we fetch data in our applications, but let's not forget that GraphQL is really fun.
 
@@ -26,8 +25,7 @@ If you want to learn more about GraphQL, check out the following resources:
 * [Relay](https://facebook.github.io/relay/): Facebook's GraphQL client library
 * [urql](https://github.com/FormidableLabs/urql): Formidable Labs' minimal React Query Library  
 
-Presenter Info
-----
+## Presenter Info
 * Eve Porcello: [@eveporcello](https://twitter.com/eveporcello)
 * [eve@moonhighway.com](mailto:eve@moonhighway.com)
 * [GraphQL Workshop](https://www.graphqlworkshop.com)
